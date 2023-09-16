@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Ayush Kumar<br><br>Studying Computer Science<br>Learning JAVA, javascript, MERN Stack<br>Working on different projects on React and Nodejs<br>
+Hello, I am Ayush Kumar<br><br>Studying Information Science<br>Learning JAVA, javascript, MERN Stack<br>Working on different projects on Reactjs and Nodejs<br>
 
 
 ## 🌐 Socials:
