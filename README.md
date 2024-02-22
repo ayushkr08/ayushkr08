@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a final-year undergraduate student at CMRIT actively seeking opportunities in the field of web development. My expertise lies in full-stack development, where I demonstrate proficiency in utilizing Java and Node.js for backend development. With a keen understanding of REST API development, I am adept at creating seamless connections between the frontend and backend.
 
-My hands-on experience extends to front-end development using the React.js library , enabling me to craft engaging and user-friendly interfaces. Notably, I have honed my skills in designing scalable and modular microservices architecture as part of my ongoing final-year project—a project conceived and implemented entirely from scratch.
+My hands-on experience extends to front-end development using the React.js library, enabling me to craft engaging and user-friendly interfaces. Notably, I have honed my skills in designing scalable and modular microservices architecture as part of my ongoing final-year project—a project conceived and implemented entirely from scratch.
 
 In addition to my technical skills, I am well-versed in optimizing performance, practicing test-driven development, and embracing agile methodology. These competencies have not only been integral to my academic journey but also contribute to my ability to deliver robust and efficient solutions in real-world scenarios. I am enthusiastic about leveraging my skills and experiences to contribute meaningfully to web development projects.
 
